@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**RamiLGH8/RamiLGH8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h1 align="center">Hi 👋, I'm Rami Leghrib</h1>
 <h3 align="center">A Computer Science Student and Mobile Apps Developer</h3>
@@ -32,4 +31,4 @@
 
 
 
--->
+
