@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rami Leghrib</h1>
 <h3 align="center">A Computer Science Student and Mobile Apps Developer</h3>
 
-- 🔭 I’m currently working on **Micro Club Mobile apps Project and Guiddini Internship projects**
+- 🔭 I’m currently working on **Micro Club Mobile apps Projects and Guiddini Internship projects**
 
 - 🌱 I’m currently learning **React,MongoDB**
 
