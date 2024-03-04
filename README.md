@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Micro Club Mobile apps Projects and Guiddini Internship projects**
 
-- 🌱 I’m currently learning **React,MongoDB**
+- 🌱 I’m currently learning **Express,MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://ramilgh8.github.io/Portfolio/](https://ramilgh8.github.io/Portfolio/)
 
