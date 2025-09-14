@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Mobile Developer at CodeIt**
 
-- 🌱 I’m currently learning **Express,MongoDB**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://ramilgh8.github.io/Portfolio/](https://ramilgh8.github.io/Portfolio/)
 
