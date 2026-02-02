@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rami Leghrib</h1>
 <h3 align="center">A Computer Science Student and AI enthusiast</h3>
 
-- 🔭 I’m currently working as **Mobile Developer at CodeIt**
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
